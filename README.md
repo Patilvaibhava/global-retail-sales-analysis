@@ -4,8 +4,6 @@ global retail sales analysis using excel & tableau
 Business Problem
 Retail businesses often struggle to understand which regions, products, and pricing strategies drive profitability. This project analyzes global retail sales data to identify key revenue drivers, optimize discount strategies, and improve overall business performance.
 
----
-
 # Objective
 - Identify high-performing regions and markets  
 - Analyze product category profitability  
